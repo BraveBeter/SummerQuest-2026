@@ -70,9 +70,7 @@
     }
   ],
   "encoding": {
-    "workers": 10,
     "batch_bytes": 8388608,
-    "max_inflight_batches": 10,
     "progress_every_batches": 10
   }
 }
